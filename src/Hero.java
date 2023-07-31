@@ -3,6 +3,7 @@ public class Hero {
     private String name;
     private int lvl;
 
+
     public int getLvl() {
         return lvl;
     }
