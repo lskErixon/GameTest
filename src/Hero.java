@@ -16,10 +16,10 @@ public class Hero {
         return name;
     }
 
-
-    public int gethP() {
-        return hP;
+    public Hero(int hP) {
+        this.hP = hP;
     }
+
 
     public void sethP(int hP) {
         this.hP = hP;
