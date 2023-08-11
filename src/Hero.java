@@ -16,6 +16,9 @@ public class Hero {
         return name;
     }
 
+    public Hero(int hP) {
+        this.hP = hP;
+    }
 
     public int gethP() {
         return hP;
