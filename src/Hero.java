@@ -19,9 +19,7 @@ public class Hero {
     public Hero(int hP) {
         this.hP = hP;
     }
-    public int gethP() {
-        return hP;
-    }
+
 
     public void sethP(int hP) {
         this.hP = hP;
